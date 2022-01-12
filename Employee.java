@@ -1,5 +1,3 @@
-package Javademos;
-
 class Employee {
 
         private int baseHours = 40;
