@@ -1,5 +1,3 @@
-package Javademos;
-
 class Car {
     public void m1() {
         System.out.println("car 1");
