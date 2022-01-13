@@ -1,5 +1,3 @@
-package Javademos;
-
 public class ArrayTest {
  
     public static boolean isUnique(int[] array) {
